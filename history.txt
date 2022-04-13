@@ -1,0 +1,9 @@
+#V2
+help
+shell
+status
+completion zsh
+init
+help
+init
+status
